@@ -8,15 +8,6 @@
 
 ---
 
-### About me
-
-- Full-stack developer — I work across both back-end and front-end
-- Mainly working with PHP and Go, plus TypeScript and Python
-- Always exploring new technologies and sharpening my stack
-- Open to collaborating on interesting projects
-
-<br>
-
 ### Tech Stack
 
 <p align="center">
